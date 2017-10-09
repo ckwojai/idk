@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # NEW BRANCH SEE FOR ANY DIFFERENCE
+=======
+# TESTING FOR P U and E in pushing
+>>>>>>> ce014ec7e841659d95312ec6ae2a15ddd1df118b
 # Mean Blog
 
 Blog using Nodejs, Expressjs, Angularjs and Mongodb. MEAN Javascript Fullstack application
